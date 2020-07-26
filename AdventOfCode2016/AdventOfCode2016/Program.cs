@@ -6,7 +6,7 @@ namespace AdventOfCode2016
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Day1.Problem2();
 		}
 	}
 }
