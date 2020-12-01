@@ -1,1 +1,1 @@
-These are my solutions to [Advent of Code 2016](https://adventofcode.com/2016).  Note to anyone viewing this: I started these in July 2020 and am completing 1 or 2 day's challenges each week.
+These are my solutions to [Advent of Code 2016](https://adventofcode.com/2016).  Note to anyone viewing this: I started these in July 2020 and am completing challenges occasionally as free time allows.
